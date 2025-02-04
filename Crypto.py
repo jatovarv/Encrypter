@@ -1,4 +1,4 @@
- import streamlit as st
+import streamlit as st
 import string
 
 # Configuración de la aplicación
